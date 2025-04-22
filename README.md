@@ -50,9 +50,9 @@
 ### 🖥️ Frontend Web Developer Intern  
 **Medorn Venture Pvt Ltd, Bhopal** – *June 2023 to July 2023*
 
-- Designed responsive UIs using Figma + HTML + CSS + JavaScript
-- Converted UIs to React.js apps and collaborated on API integration
-- Optimized performance and contributed to debugging/code reviews  
+  - Designed responsive UIs using Figma + HTML + CSS + JavaScript
+  - Converted UIs to React.js apps and collaborated on API integration
+  - Optimized performance and contributed to debugging/code reviews  
 🔗 **Project UI:** [Tilakram-UI](https://nilendrapatel1317.github.io/Tilakram-UI/)
 
 ---
@@ -66,7 +66,7 @@
 
 ## 🎓 Education
 
-| Year       | Degree                     | Institute                                   | %     |
+| Year       | Degree                     | Institute                                   | %      |
 |------------|----------------------------|---------------------------------------------|--------|
 | 2020–2024  | B.Tech (CSE)               | RGPV University – SIRT College, Bhopal      | 85.4%  |
 | 2019–2020  | 12th – CBSE                | Kendriya Vidyalaya School, MP               | 68.2%  |
