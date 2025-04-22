@@ -28,18 +28,18 @@
 
 ### 🚀 Projects
 
-#### 🌍 [Portfolio](#) – *Next.js, JavaScript*
+#### 📚 [Portfolio](https://github.com/nilendrapatel1317/Portfolio-2025) – *Next.js, JavaScript*
 > A web-based portfolio build by using Next.js.
 > In this portfolio it contains all details releted to me like my education , my skills , my projects , my internship.  
 
-#### 🏨 [Discord App Clone](#) – *Next.js, MongoDB, React.js, Node.js, Socket.io, Tailwind CSS*
+#### 📚 [Discord App Clone](#) – *Next.js, MongoDB, React.js, Node.js, Socket.io, Tailwind CSS*
 > Developed a real-time messaging app using Next.js 13, Socket.io, MongoDB, and Clerk. 
 
 #### 📚 [Thread App Clone](#) – *Next.js, MongoDB, Tailwind CSS*
 > Built a scalable social media platform with user authentication, real-time updates, and media uploads. 
 > Integrated MongoDB and optimized performance using Next.js.
 
-#### ✉️ [Banking Management System](#) – *HTML, Bootstrap v5, Java, Servlets, JSP, JDBC, PostgreSQL*
+#### 📚 [Banking Management System](#) – *HTML, Bootstrap v5, Java, Servlets, JSP, JDBC, PostgreSQL*
 > Built a dynamic web application by using html and bootstrap for frontend and java, servlets for backend logic and postgreSQL for database and it connected by using JDBC. 
 > Integrated JDBC to communicate with database and manage the users and their accounts.  
 
