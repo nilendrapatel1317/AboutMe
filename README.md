@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! 👋 I'm Nilendra Patel</h1>
-<h3 align="center">🚀 Aspiring Java & Web Developer | Full Stack Java Developer</h3>
+<h4 align="center">🚀 Java Spring Boot Developer</h4>
 
 <p align="center">
   <img src="./user.png" width="250" alt="Nilendra Patel" style="border-radius: 12px;" />
@@ -9,8 +9,7 @@
 
 ## 🧑‍💻 Career Objective
 
-🎯 I am a 2024 B.Tech CSE graduate passionate about Java and web development.  
-Eager to contribute my skills to innovative projects while continuously learning and growing in a dynamic development environment.
+<p>🎯 I am a 2024 B.Tech CSE graduate passionate about Java and web development. Eager to contribute my skills to innovative projects while continuously learning and growing in a dynamic development environment.</p>
 
 ---
 
