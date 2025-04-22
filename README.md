@@ -16,32 +16,33 @@ Eager to contribute my skills to innovative projects while continuously learning
 
 ## ⚙️ Technical Skills
 
-- **Languages:** Java
-- **Web Technologies:** HTML5 · CSS3 · JavaScript · React.js (basic) · Bootstrap · Tailwind CSS · Material UI
-- **Backend:** Java (JDBC, Servlets, JSP, Hibernate, Spring Boot - basic)
-- **Databases:** SQL · MySQL · PostgreSQL · MongoDB  
-  (DDL, DML, DCL, TCL, Joins, Views, Triggers, Sub-Queries, Normalization, ACID)
-- **CS Concepts:** OOP · DSA (Stacks, Queues, LinkedList, BST, Hashing, Sorting/Searching)
+- **Languages:** `Java`
+- **Web Technologies:** `HTML5` · `CSS3` · `JavaScript` · `React.js (basic)` · `Bootstrap v5`· `Tailwind CSS` · `Material UI`
+- **Backend:** `Java` (`JDBC`, `Servlets`, `JSP`, `Hibernate`, `Spring Boot` - basic)
+- **Databases:** `SQL` · `MySQL` · `PostgreSQL` · `MongoDB`  
+  (`DDL`, `DML`, `DCL`, `TCL`, `Joins`, `Views`, `Triggers`, `Sub-Queries`, `Normalization`, `ACID`)
+- **CS Concepts:** `OOP` · `DSA` (`Stacks`, `Queues`, `LinkedList`, `BST`, `Hashing`, `Sorting/Searching`)
 
 ---
 
 ## 🚀 Projects
 
+### 📌 [Portfolio Website](https://nilendrapatel.vercel.app)
+> Personal portfolio made with Next.js showcasing skills, projects, education.
+
 ### 📌 [Discord Gamer Server App Clone](https://discord-psi-two.vercel.app/)
 > Built with Next.js 13, MongoDB, React.js, Socket.io, Clerk  
 > Real-time app with roles, video calls & server management.  
-> **Tech:** Next.js, MongoDB, Tailwind CSS, Material UI, Clerk
+> **Tech:** `Next.js`, `MongoDB`, `Tailwind CSS`, `Material UI`, `Clerk`
 
 ### 📌 [Thread Social Media Clone](https://thread-next-app.vercel.app/)
 > Scalable app with auth, real-time updates, media uploads.  
-> **Tech:** Next.js, MongoDB, Tailwind CSS
+> **Tech:** `Next.js`, `MongoDB`, `Tailwind CSS`
 
 ### 📌 [Banking Management System](#)
 > Dynamic web app for account management using HTML, Java, PostgreSQL  
-> **Tech:** HTML, Bootstrap v5, Java, Servlets, JSP, JDBC
+> **Tech:** `HTML`, `Bootstrap v5`, `Java`, `Servlets`, `JSP`, `JDBC`
 
-### 📌 [Portfolio Website](https://github.com/nilendrapatel1317/Portfolio-2025)
-> Personal portfolio made with Next.js showcasing skills, projects, education.
 
 ---
 
@@ -86,9 +87,6 @@ Eager to contribute my skills to innovative projects while continuously learning
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nilendrapatel1317/)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/nilendrapatel1317)
 [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:patelnilendra809@gmail.com)
-📱 **Phone:** +91 9406663416  
-🌐 [Portfolio Website](https://nilendrapatel.vercel.app)
-
 ---
 
 ## ✨ Fun Fact
