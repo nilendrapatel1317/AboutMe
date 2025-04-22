@@ -32,10 +32,10 @@
 > A web-based portfolio build by using Next.js.
 > In this portfolio it contains all details releted to me like my education , my skills , my projects , my internship.  
 
-#### 📚 [Discord App Clone](#) – *Next.js, MongoDB, React.js, Node.js, Socket.io, Tailwind CSS*
+#### 📚 [Discord App Clone](https://github.com/nilendrapatel1317/Discord-Clone-Next.js-App) – *Next.js, MongoDB, React.js, Node.js, Socket.io, Tailwind CSS*
 > Developed a real-time messaging app using Next.js 13, Socket.io, MongoDB, and Clerk. 
 
-#### 📚 [Thread App Clone](#) – *Next.js, MongoDB, Tailwind CSS*
+#### 📚 [Thread App Clone](https://github.com/nilendrapatel1317/Thread-Clone-Next.js-App) – *Next.js, MongoDB, Tailwind CSS*
 > Built a scalable social media platform with user authentication, real-time updates, and media uploads. 
 > Integrated MongoDB and optimized performance using Next.js.
 
@@ -66,10 +66,10 @@
 ### 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/anushree-gupta/" target="_blank">
+  <a href="https://www.linkedin.com/in/nilendrapatel1317/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" />
   </a>
-  <a href="mailto:anushree.gupta@email.com">
+  <a href="mailto:nilendraatel1317@email.com">
     <img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -82,4 +82,4 @@
 
 ---
 
-⭐ _Thanks for stopping by! Don’t forget to check out my repositories and leave a star if you like them!_
+⭐ _Thanks for stopping by! Don’t forget to check out my repositories and leave a star ⭐ if you like them!_
