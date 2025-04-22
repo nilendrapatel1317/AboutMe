@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Aspiring Java & Web Developer | Full Stack Java Developer</h3>
 
 <p align="center">
-  <img src="./Nilendra Patel Photo.jpg" width="250" alt="Nilendra Patel" style="border-radius: 12px;" />
+  <img src="./user.png" width="250" alt="Nilendra Patel" style="border-radius: 12px;" />
 </p>
 
 ---
