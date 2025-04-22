@@ -94,4 +94,4 @@
 
 ---
 
-⭐ _Thanks for stopping by! Don't forget to check out my repositories and leave a ⭐ if you like them!_
+⭐ _Thanks for stopping by! Don't forget to check out my repositories and leave a if you like them!_ ⭐
