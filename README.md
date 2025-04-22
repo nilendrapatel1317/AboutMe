@@ -27,20 +27,20 @@
 ## 🚀 Projects
 
 ### 📌 [Portfolio Website](https://nilendrapatel.vercel.app)
-> Personal portfolio made with Next.js showcasing skills, projects, education.
+- Personal portfolio made with Next.js showcasing skills, projects, education.
 
 ### 📌 [Discord Gamer Server App Clone](https://discord-psi-two.vercel.app/)
-> Built with Next.js 13, MongoDB, React.js, Socket.io, Clerk  
-> Real-time app with roles, video calls & server management.  
-> **Tech:** `Next.js`, `MongoDB`, `Tailwind CSS`, `Material UI`, `Clerk`
+- Built with Next.js 13, MongoDB, React.js, Socket.io, Clerk  
+- Real-time app with roles, video calls & server management.  
+- **Tech:** `Next.js`, `MongoDB`, `Tailwind CSS`, `Material UI`, `Clerk`
 
 ### 📌 [Thread Social Media Clone](https://thread-next-app.vercel.app/)
-> Scalable app with auth, real-time updates, media uploads.  
-> **Tech:** `Next.js`, `MongoDB`, `Tailwind CSS`
+- Scalable app with auth, real-time updates, media uploads.  
+- **Tech:** `Next.js`, `MongoDB`, `Tailwind CSS`
 
 ### 📌 [Banking Management System](#)
-> Dynamic web app for account management using HTML, Java, PostgreSQL  
-> **Tech:** `HTML`, `Bootstrap v5`, `Java`, `Servlets`, `JSP`, `JDBC`
+- Dynamic web app for account management using HTML, Java, PostgreSQL  
+- **Tech:** `HTML`, `Bootstrap v5`, `Java`, `Servlets`, `JSP`, `JDBC`
 
 
 ---
@@ -50,9 +50,9 @@
 ### 🖥️ Frontend Web Developer Intern  
 **Medorn Venture Pvt Ltd, Bhopal** – *June 2023 to July 2023*
 
-  - Designed responsive UIs using Figma + HTML + CSS + JavaScript
-  - Converted UIs to React.js apps and collaborated on API integration
-  - Optimized performance and contributed to debugging/code reviews  
+- Designed responsive UIs using Figma + HTML + CSS + JavaScript
+- Converted UIs to React.js apps and collaborated on API integration
+- Optimized performance and contributed to debugging/code reviews  
 🔗 **Project UI:** [Tilakram-UI](https://nilendrapatel1317.github.io/Tilakram-UI/)
 
 ---
@@ -90,7 +90,7 @@
 
 ## ✨ Fun Fact
 
-> I turn ☕ into code, bugs into features, and ideas into interactive experiences ✨
+- I turn ☕ into code, bugs into features, and ideas into interactive experiences ✨
 
 ---
 
