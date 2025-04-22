@@ -19,7 +19,7 @@
 
 ### ⚙️ Tech Stack
 
-- 💻 **Languages**: Java · C
+- 💻 **Languages**: Java 
 - 🌐 **Web Development**: HTML5 · CSS3 · JavaScript · Bootstrap v5 · Basic React
 - 🔧 **Backend & Tools**: Spring Boot · Hibernate · Servlet · JDBC 
 - 🗄️ **Database & APIs**: MySQL · PostgreSQL · MongoDB · RESTful APIs · Postman
@@ -28,38 +28,38 @@
 
 ### 🚀 Projects
 
-#### 🌍 [Tourista](#) – *HTML5, CSS, JavaScript*
-> A web-based travel platform offering trip customization, interactive maps, and local insights.  
-> 📦 Features: Packing list generator, location-based suggestions, and service access.
+#### 🌍 [Portfolio](#) – *Next.js, JavaScript*
+> A web-based portfolio build by using Next.js.
+> In this portfolio it contains all details releted to me like my education , my skills , my projects , my internship.  
 
-#### 🏨 [HostMate](#) – *Java, Spring Boot, MySQL, Thymeleaf*
-> MVC-based hotel management system with secure admin access and RESTful APIs.  
-> 🔒 Spring Security | 🧾 Modules: Room, Guest, Reservation Management.
+#### 🏨 [Discord App Clone](#) – *Next.js, MongoDB, React.js, Node.js, Socket.io, Tailwind CSS*
+> Developed a real-time messaging app using Next.js 13, Socket.io, MongoDB, and Clerk. 
 
-#### 📚 [BookVault](#) – *Java, JDBC, MySQL*
-> Role-Based Access Library System with CRUD, due date tracking, and genre search.  
-> 📖 Persistent backend using MySQL.
+#### 📚 [Thread App Clone](#) – *Next.js, MongoDB, Tailwind CSS*
+> Built a scalable social media platform with user authentication, real-time updates, and media uploads. 
+> Integrated MongoDB and optimized performance using Next.js.
 
-#### ✉️ [VoxMail](#) – *Python*
-> Voice-controlled email client for the visually impaired using speech-to-text.  
-> 🗣️ Powered by speech recognition APIs for seamless interaction.
+#### ✉️ [Banking Management System](#) – *HTML, Bootstrap v5, Java, Servlets, JSP, JDBC, PostgreSQL*
+> Built a dynamic web application by using html and bootstrap for frontend and java, servlets for backend logic and postgreSQL for database and it connected by using JDBC. 
+> Integrated JDBC to communicate with database and manage the users and their accounts.  
 
 ---
 
 ### 📜 Certifications
 
-- 🤖 *Machine Learning on AWS* – Coursera
-- 🧠 *Fundamentals of Generative AI* – Microsoft Learn
-- 🐍 *Google Crash Course on Python* – Coursera
-- ☁️ *Cloud Computing* – EC-Council
+- 🤖 *Frontend Web Development* – Sheryans Codeing School
+- 🤖 *Backend Web Development* – Sheryans Codeing School
+- 🤖 *React.js and Next.js* – Sheryans Codeing School
+- 🤖 *Full Stack Java Developer* – Jspiders Bengaluru
+
 
 ---
 
 ### 🎓 Education
 
-- **B.Tech in IT** – Bansal Institute of Engineering, Lucknow (2021–2025) – 81%
-- **Intermediate (12th)** – Mount Carmel College, Lucknow (2020–2021) – 86.2%
-- **High School (10th)** – Mount Carmel College, Lucknow (2018–2019) – 91%
+- **B.Tech in CSE** – SIRT, Bhopal, Madhaya Pradesh (2020–2024) – 85.4%
+- **Intermediate (12th)** – Kendriya Vidyalaya School, Madhya Pradesh (2019–2020) – 68.2%
+- **High School (10th)** – Kendriya Vidyalaya School, Madhya Pradesh (2017–2018) – 75.5%
 
 ---
 
