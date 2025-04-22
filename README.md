@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! I'm Nilendra Patel 👋</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/vZYfF2tMe8I9R3hJaX/giphy.gif" width="300" alt="Developer Banner" />
+  <img src="./Nilendra Patel Photo.jpg" width="300" alt="Developer Banner" />
 </p>
 
 <p align="center">🚀 Java Spring Boot Developer</p>
