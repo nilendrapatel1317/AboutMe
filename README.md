@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Java Spring Boot Developer</h3>
 
 <p align="center">
-  <img src="./user.png" width="250" alt="Nilendra Patel" style="border-radius: 12px;" />
+  <img src="./user.png" width="500" alt="Nilendra Patel" style="border-radius: 12px;" />
 </p>
 
 ---
